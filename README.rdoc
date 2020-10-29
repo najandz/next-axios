@@ -1,0 +1,1 @@
+Fetching and hydrating a Next.JS app using `getServerSideProps` and `getStaticProps`
